@@ -1,0 +1,11 @@
+C:\Users\kaue\OneDrive - Bem Promotora de Vendas e Servicos SA\Documentos\Programação Orientada a Objetos utilizando a linguagem C#\pooShowDoMilhao\bin\Debug\netcoreapp3.1\pooShowDoMilhao.exe
+C:\Users\kaue\OneDrive - Bem Promotora de Vendas e Servicos SA\Documentos\Programação Orientada a Objetos utilizando a linguagem C#\pooShowDoMilhao\bin\Debug\netcoreapp3.1\pooShowDoMilhao.deps.json
+C:\Users\kaue\OneDrive - Bem Promotora de Vendas e Servicos SA\Documentos\Programação Orientada a Objetos utilizando a linguagem C#\pooShowDoMilhao\bin\Debug\netcoreapp3.1\pooShowDoMilhao.runtimeconfig.json
+C:\Users\kaue\OneDrive - Bem Promotora de Vendas e Servicos SA\Documentos\Programação Orientada a Objetos utilizando a linguagem C#\pooShowDoMilhao\bin\Debug\netcoreapp3.1\pooShowDoMilhao.runtimeconfig.dev.json
+C:\Users\kaue\OneDrive - Bem Promotora de Vendas e Servicos SA\Documentos\Programação Orientada a Objetos utilizando a linguagem C#\pooShowDoMilhao\bin\Debug\netcoreapp3.1\pooShowDoMilhao.dll
+C:\Users\kaue\OneDrive - Bem Promotora de Vendas e Servicos SA\Documentos\Programação Orientada a Objetos utilizando a linguagem C#\pooShowDoMilhao\bin\Debug\netcoreapp3.1\pooShowDoMilhao.pdb
+C:\Users\kaue\OneDrive - Bem Promotora de Vendas e Servicos SA\Documentos\Programação Orientada a Objetos utilizando a linguagem C#\pooShowDoMilhao\obj\Debug\netcoreapp3.1\pooShowDoMilhao.csprojAssemblyReference.cache
+C:\Users\kaue\OneDrive - Bem Promotora de Vendas e Servicos SA\Documentos\Programação Orientada a Objetos utilizando a linguagem C#\pooShowDoMilhao\obj\Debug\netcoreapp3.1\pooShowDoMilhao.AssemblyInfoInputs.cache
+C:\Users\kaue\OneDrive - Bem Promotora de Vendas e Servicos SA\Documentos\Programação Orientada a Objetos utilizando a linguagem C#\pooShowDoMilhao\obj\Debug\netcoreapp3.1\pooShowDoMilhao.AssemblyInfo.cs
+C:\Users\kaue\OneDrive - Bem Promotora de Vendas e Servicos SA\Documentos\Programação Orientada a Objetos utilizando a linguagem C#\pooShowDoMilhao\obj\Debug\netcoreapp3.1\pooShowDoMilhao.dll
+C:\Users\kaue\OneDrive - Bem Promotora de Vendas e Servicos SA\Documentos\Programação Orientada a Objetos utilizando a linguagem C#\pooShowDoMilhao\obj\Debug\netcoreapp3.1\pooShowDoMilhao.pdb
